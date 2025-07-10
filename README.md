@@ -1,6 +1,11 @@
 # Text Highlighter
 Task 1:
 A simple React application that highlights matching text in real-time as you type.
+
+Task 2:
+Create a function that works like the reduce method of arrays.
+
+
 (Ai generated)
 ## Features
 - Real-time text highlighting
